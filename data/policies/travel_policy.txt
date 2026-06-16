@@ -1,0 +1,7 @@
+Hotel reimbursement limit is ₹5000.
+
+Manager approval required above ₹5000.
+
+Receipt mandatory for all hotel expenses.
+
+Taxi reimbursement limit is ₹2000.
